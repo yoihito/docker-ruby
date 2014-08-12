@@ -1,2 +1,6 @@
 Docker file for ruby 
 install ruby via rbenv
+
+copy file to dir
+run 
+$ docker build -t yoihito/ruby .
